@@ -5,3 +5,11 @@
 > Cranach Design ist ein Design System für die Designsprache des Cranach Digital Archives. Das System besteht aktuell aus vordefinierten Pattern, Richtlinien für Benutzeroberflächen und Dokumentationen der Designsprache
 
 ## Erste Schritte
+
+Vollständige Liste der unterstützten Packages
+
+| Package Name                | Beschreibung                            |
+| -------------               |:-------------:                          | 
+| [cranach-components-react](https://www.google.com)    | React-Komponenten                       |
+| [@cranach/colors](https://www.google.com)             | Farben des Cranach Digital Archive      |
+| [@cranach/Layout](https://www.google.com)             | Layout des Cranach Digital Archive      |
