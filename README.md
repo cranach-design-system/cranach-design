@@ -1,3 +1,3 @@
-# cranach-design
+# Cranach Design
 
 ## Erste Schritte
