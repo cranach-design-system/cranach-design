@@ -11,8 +11,6 @@ Vollständige Liste der unterstützten Packages
 | Package Name                | Beschreibung                            |
 | -------------               |:-------------:                          | 
 | [cranach-components-react](https://www.google.com)    | React-Komponenten                       |
-| [@cranach/colors](https://www.google.com)             | Farben des Cranach Digital Archive      |
-| [@cranach/Layout](https://www.google.com)             | Layout des Cranach Digital Archive      |
 
 
 ## Dokumentation
