@@ -1,0 +1,22 @@
+.artefact-intro{
+  width: 100%;
+  background-color: black;
+}
+
+.artefact-intro-inner-section{
+  padding: 50px;
+  text-align: center;
+}
+
+.paragraph-section{
+  width: 100%;
+}
+
+.artefact-intro-paragraph{
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.8rem;
+  margin: 50px 0;
+  max-width: 500px;
+  display: inline-block;
+}

@@ -1,0 +1,26 @@
+.column{
+  flex-basis: calc(599400px - 99900%);
+  flex-grow: 1;
+  padding-right: 1.3rem;
+}
+
+.definition-list{
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+}
+
+.definition-list-term{
+  font-weight: 500;
+  padding-top: .2rem;
+  padding-bottom: .8rem;
+  line-height: 140%;
+}
+
+.definition-list-definition{
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  display: flex;
+  margin: 0;
+  padding-bottom: .8rem;
+  line-height: 140%;
+}

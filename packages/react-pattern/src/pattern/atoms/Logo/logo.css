@@ -1,0 +1,16 @@
+.logo{
+  display: block;
+  padding-right: 1.3rem;
+  padding-bottom: 1.2rem;
+  color: #fc0;
+  font-weight: 500;
+  font-size: 2.0rem;
+}
+
+.button--primary{
+  color: #fc0;
+}
+
+.button--secondary{
+  color: #000;
+}

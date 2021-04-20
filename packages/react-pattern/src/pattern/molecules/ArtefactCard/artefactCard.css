@@ -1,0 +1,51 @@
+.artefact-card{
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  display: inline-block;
+}
+
+.artefact-card-image-section{
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+  background-color: #222;
+  border-top: 1px solid rgba(0,0,0,.2);
+}
+
+.artefact-card-image-section img{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.artefact-card-content-section{
+  width: 100%;
+  border-top: 2px solid #fc0;
+  background-color: #444;
+  padding-bottom: 10px;
+}
+
+.artefact-card-content-inner-section{
+  margin: 10px 12px;
+  text-align: left;
+}
+
+.artefact-card-content-section h2{
+  font-size: 16px;
+  color: #fff;
+  margin: 5px 0;
+}
+
+.artefact-card-content-section p{
+  color: #b4b4b4;
+  font-size: 16px;
+  margin: 5px 0;
+}
