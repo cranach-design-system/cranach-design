@@ -1,6 +1,6 @@
 {
-  "name": "cranach-design-react-pattern2",
-  "version": "1.0.1",
+  "name": "cranach-design-react-pattern",
+  "version": "1.0.0",
   "description": "React Pattern of Cranach Design",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
