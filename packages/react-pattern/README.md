@@ -24,7 +24,7 @@ function MyComponent() {
 }
 ```
 
-Für weitere Informationen über jede Pattern/Komponente, gehe auch [Storybook](https://react.carbondesignsystem.com).
+Für weitere Informationen über jede Pattern/Komponente, gehe auch [Storybook](https://storybook-cranachdesign.netlify.app).
 Anleitung zum Beginnen gehe zur [Cranach Design Webseite](https://cranachdesign.netlify.app/developing/react-tutorial)
 
 
