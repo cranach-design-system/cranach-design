@@ -9,8 +9,6 @@
 
 Derzeit behinhalte das Cranach Design System nur [React Pattern](./packages/react-pattern)
 
-Wenn du
-
 Hier ist eine Liste der Packages die wir unterstützen.
 
 
